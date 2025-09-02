@@ -1,5 +1,5 @@
 ### 📌 Acknowledgements  
 
-This analysis is based on the [WHO COVID-19 dashboard](http://data.who.int/dashboards/covid19/data) 
-
-We gratefully acknowledge their efforts in collecting, curating, and sharing this invaluable dataset with the research community.  
+- Original dataset from [Retail Sales Dataset - Kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)  
+- Synthetic data generated with [SynGenData Studio](https://studio.syngendata.ai/)  
+- Special thanks to the open-source community for providing tools and platforms that make data learning accessible.  
